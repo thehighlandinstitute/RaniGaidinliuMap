@@ -1,3 +1,3 @@
 # RaniGaidinliuMap
 storytelling map
-https://kohimainstitute.github.io/RaniGaidinliuMap/
+https://thehighlandinstitute.github.io/RaniGaidinliuMap/
