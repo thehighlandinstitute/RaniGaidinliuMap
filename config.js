@@ -7,7 +7,7 @@ var config = {
     title: 'The Power of the Text',
     subtitle: 'Gaidinliu Notebooks as Historical Agents',
     byline: 'By THE HIGHLAND INSTITUTE',
-    footer: 'Negi Thokchom at THE HIGHLAND INSTITUTE',
+    footer: 'Negi Thokchom at THEHIGHLAND INSTITUTE',
     chapters: [
         {
             id: 'slug-style-id',
